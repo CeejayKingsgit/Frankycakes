@@ -1,0 +1,124 @@
+.main-layout{
+	background-color: blue;
+
+}
+.layout_padding {
+     padding-top: 90px;
+     padding-bottom: 90px;
+}
+
+.carousel-inner.text_box{
+	font-size: 17px;
+     background-color: #f4cb1e;
+     color: #fff;
+     padding: 13px 0px;
+     width: 100%;
+     max-width: 190px;
+     text-align: center;
+     display: inline-block;
+     transition: ease-in all 0.5s;
+     z-index: 9999;
+     position: relative;
+     font-weight: 500;
+	
+	
+}
+.about {
+     padding: 60px 0px 140px 0px;
+     background: #fff;
+}
+
+.about .titlepage p {
+     color: red;
+     line-height: 28px;
+     font-weight: 500;
+     font-size: 17px;
+     padding-top: 20px;
+}
+
+.about_Carousel .carousel-caption {
+     position: inherit;
+     padding: 0;
+     padding-top: 65px;
+}
+
+.about_box {
+     text-align: left;
+}
+
+.test_box {
+     padding: 30px 40px 40px 42px;
+     background: url(../images/te.png);
+     background-size: 100% 100%;
+     min-height: 367px;
+	 background-color:green;
+}
+
+.about_Carousel .test_box h4 {
+     font-size: 30px;
+     color: purple;
+     line-height: 18px;
+     display: block;
+     text-align: center;
+     text-transform: uppercase;
+     font-weight: 600;
+     padding: 23px 0px 0px 0px;
+     text-align: left;
+}
+
+.about_Carousel .test_box i {
+     text-align: left;
+     float: left;
+     margin-bottom: -12px;
+     margin-right: 20px;
+     margin-top: -91px;
+     box-shadow: #ddd 0px 0px 10px 0px;
+     border-radius: 122px;
+}
+
+.about_Carousel .test_box p {
+     font-size: 17px;
+     line-height: 28px;
+     color: #fff;
+     text-align: left;
+     margin-top: 45px;
+}
+
+.about_Carousel .carousel-indicators {
+     bottom: -50px;
+}
+
+.about_Carousel .carousel-indicators li {
+     width: 56px;
+     height: 15px;
+     border-radius: 20px;
+     background: #f4cb1e;
+}
+
+.about_Carousel .carousel-indicators li.active {
+     background: #040403;
+}
+
+#myCarousel .carousel-control-next-icon,
+#myCarousel .carousel-control-prev-icon {
+     display: none;
+		 
+}
+
+.jonabout {
+     padding: 60px 0px 140px 0px;
+     background: blue ;
+}
+
+.jonabout h2 {
+     color: #ffd700;
+}
+
+.jonabout .unique p {
+     color: white;
+     line-height: 28px;
+     font-weight: 500;
+     font-size: 17px;
+     padding-top: 50px;
+}
+
